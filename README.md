@@ -58,7 +58,7 @@ A curated list of dogecoin services and tools
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [pywallet](https://github.com/ranaroussi/pywallet) - Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE.
 * [django-cc](https://github.com/limpbrains/django-cc) - Django-cryptocurrencies web wallet for Bitcoin and a few other cryptocurrencies.
-* [walletool](https://github.com/akx/walletool) - A tool for reading wallet.dat files
+* [walletool](https://github.com/akx/walletool) - A tool for reading wallet.dat files.
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
